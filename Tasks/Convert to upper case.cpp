@@ -34,8 +34,6 @@ int main() {
     /*or more
     char a, b;
     cin >> a;
-    char a, b;
-    cin >> a;
     if (a >= 'a' && a <= 'z') {
         b = static_cast<int>(a) - 32; 
         cout << b << endl;
