@@ -1,7 +1,7 @@
 /*
 Find the algebraic sum of the expression: 1k + 2k + 3k +… + Nk, where N and the degree k are entered by the user.
 The solution will be below
-For exaple: 
+For example: 
 3
 4
 98
