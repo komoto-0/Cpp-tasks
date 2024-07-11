@@ -1,5 +1,8 @@
 /*
-Declare three arrays of type "int" with 10 elements. Fill the first two with random values ​​from 10 to 30. In the elements of the third array, write the sum of the corresponding elements of the first two arrays. (in the zero cell of the third - the sum of the zero cells of the first and second arrays, and so on). Then find the arithmetic mean of the elements of the third array, the maximum value and the minimum value it stores.
+Declare three arrays of type "int" with 10 elements. Fill the first two with random values ​​from 10 to 30. 
+In the elements of the third array, write the sum of the corresponding elements of the first two arrays. 
+(in the zero cell of the third - the sum of the zero cells of the first and second arrays, and so on). T
+hen find the arithmetic mean of the elements of the third array, the maximum value and the minimum value it stores.
 */
 
 
