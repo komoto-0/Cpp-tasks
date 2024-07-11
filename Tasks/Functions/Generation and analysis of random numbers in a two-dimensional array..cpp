@@ -88,8 +88,8 @@ int main() {
     FillShowArray(*array, SIZE); 
     /*We pass a pointer to the first element of the array (i.e. &array[0][0]). 
     Arrays in C++ are stored in memory as contiguous chunks of memory, so passing a pointer to the first element of 
-    the array is equivalent to passing a pointer to the entire matrix.*/
-*/    
+    the array is equivalent to passing a pointer to the entire matrix.
+    
     cout << endl;
     cout << "min element: " << findMinElement(*array, SIZE) << endl;
     cout << "max element: " << findMaxElement(*array, SIZE) << endl;
