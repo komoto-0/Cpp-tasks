@@ -76,9 +76,9 @@ int findMaxElement (int arr[][SIZE], int size) {
 
 /* or
 const int SIZE = 3;
-void FillShowArray(int *arr, const int size);
-int findMinElement(int *arr, const int size);
-int findMaxElement(int *arr, const int size);
+void FillShowArray(int *arr, int size);
+int findMinElement(int *arr, int size);
+int findMaxElement(int *arr, int size);
 
 int main() {
     srand(time(NULL));
@@ -96,7 +96,7 @@ int main() {
     
     return 0;
 }
-void FillShowArray(int *arr, const int size) {
+void FillShowArray(int *arr, int size) {
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < size; j++) {
             *(arr + i * size + j) = 30 + rand() % 31;
