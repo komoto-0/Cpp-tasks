@@ -1,5 +1,8 @@
 /*
-Declare a pointer to an array of type double and prompt the user to choose its size. Next, write four functions: the first should allocate memory for the array, the second should fill the cells with data, the third should display data on the screen, and the fourth should free up occupied memory.  The program should prompt the user to continue working (create new dynamic arrays) or exit the program.
+Declare a pointer to an array of type double and prompt the user to choose its size. 
+Next, write four functions: the first should allocate memory for the array, 
+the second should fill the cells with data, the third should display data on the screen, and the fourth should free up occupied memory.  
+The program should prompt the user to continue working (create new dynamic arrays) or exit the program.
 */
 
 
