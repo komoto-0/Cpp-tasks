@@ -89,4 +89,5 @@ int main() {
     for (int i = 0; i < SIZE; i++) { // display the contents of the colS array
         cout << i + 1 << " column: " << colS[i] << endl;
     }
+    return 0;
 }
