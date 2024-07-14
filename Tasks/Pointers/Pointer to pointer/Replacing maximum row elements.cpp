@@ -51,7 +51,7 @@ int main() {
     
     cout << "=====================================\n";
     
-    int x = 0; to record the row number in which we are looking for the maximum value
+    int x = 0; // to record the row number in which we are looking for the maximum value
     int y = 0; // to record the column number with the maximum value
     
     for (int i = 0; i < ROW; i++) {
