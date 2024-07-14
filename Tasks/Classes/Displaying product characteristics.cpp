@@ -42,7 +42,7 @@ int main() {
     Closet closet("Minotti", 20, 10, 500);
     closet.GetInfo();
     
-	return 0;
+    return 0;
 }
 
 void Closet::GetInfo () {
